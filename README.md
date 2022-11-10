@@ -14,6 +14,7 @@ SRGAN uses a perceptual loss function which consists of an adversarial loss and 
 </p>
 
 # Results
+### After 4000 Epochs (with batch size 1)
 <p align="center">
   <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4800.png" width="810" height="300" />
 </p>
