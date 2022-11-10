@@ -4,7 +4,7 @@ Chest X-ray (CXR) imaging is one of the most widely-used and cost-effective tech
 # Architecture
 The generator creates a high-resolution (HR) image (4x upscaled) from a corresponding low-resolution (LR) image. The discriminator distinguishes the generated (fake) HR images from the original HR images.
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/srgan-architecture.png" width="860" height="430" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/srgan-architecture.png"/>
 </p>
 
 # Loss function
