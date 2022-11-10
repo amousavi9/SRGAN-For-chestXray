@@ -16,15 +16,15 @@ SRGAN uses a perceptual loss function which consists of an adversarial loss and 
 # Results
 ### After 4000 Epochs (with batch size 1)
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4800.png" width="810" height="300" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4800.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4950.png" width="810" height="300" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4950.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4900.png" width="810" height="300" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4900.png" />
 </p>
 
 <p align="center">
