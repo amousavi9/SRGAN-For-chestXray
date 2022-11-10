@@ -9,21 +9,21 @@ The generator creates a high-resolution (HR) image (4x upscaled) from a correspo
 
 # Results
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4800.png" width="900" height="350" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4800.png" width="900" height="250" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4950.png" width="900" height="350" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4950.png" width="900" height="250" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4900.png" width="900" height="350" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4900.png" width="900" height="250" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4850.png" width="900" height="350" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4850.png" width="900" height="250" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4300.png" width="900" height="350" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4300.png" width="900" height="250" />
 </p>
