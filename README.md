@@ -4,26 +4,26 @@ Chest X-ray (CXR) imaging is one of the most widely-used and cost-effective tech
 # Architecture
 The generator creates a high-resolution (HR) image (4x upscaled) from a corresponding low-resolution (LR) image. The discriminator distinguishes the generated (fake) HR images from the original HR images.
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/srgan-architecture.png" width="900" height="350" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/srgan-architecture.png" width="860" height="430" />
 </p>
 
 # Results
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4800.png" width="900" height="250" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4800.png" width="920" height="345" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4950.png" width="900" height="250" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4950.png" width="920" height="345" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4900.png" width="900" height="250" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4900.png" width="920" height="345" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4850.png" width="900" height="250" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4850.png" width="920" height="345" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4300.png" width="900" height="250" />
+  <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4300.png" width="920" height="345"" />
 </p>
