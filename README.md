@@ -18,19 +18,15 @@ SRGAN uses a perceptual loss function which consists of an adversarial loss and 
 <p align="center">
   <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4800.png" />
 </p>
-
 <p align="center">
   <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4950.png" />
 </p>
-
 <p align="center">
   <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4900.png" />
 </p>
-
 <p align="center">
   <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4850.png" />
 </p>
-
 <p align="center">
   <img src="https://github.com/amousavi9/SRGAN-For-chestXray/blob/main/results/4300.png" />
 </p>
